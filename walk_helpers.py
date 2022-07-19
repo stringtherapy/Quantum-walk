@@ -1,3 +1,7 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.pyplot import step, show
+
 # function to map to music
 
 def map_to_music(one_d_walk_output,scale,starting_note):
